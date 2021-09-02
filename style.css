@@ -16,6 +16,12 @@ body {
 	justify-content: center;
 	align-items: center;
 	background-color: rgb(37, 37, 37);
+	flex-direction: column;
+}
+
+h1 {
+	margin-bottom: 50px;
+	color: white;
 }
 
 .button-container {
